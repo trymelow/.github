@@ -9,7 +9,7 @@
 
 Вся музыка мира — без рекламных пауз.
 
-[Сайт](https://melow.fun) · [Скачать](https://github.com/trymelow/releases/releases/latest) · [Статус](https://status.melow.fun) · [Telegram](https://t.me/trymelon)
+[Сайт](https://melow.fun) · [Скачать](https://github.com/trymelow/releases/releases/latest) · [Статус](https://status.melow.fun) · [Telegram](https://t.me/melow_app)
 
 ![Windows](https://img.shields.io/badge/Windows-0a0a0a?style=flat-square)
 ![macOS](https://img.shields.io/badge/macOS-0a0a0a?style=flat-square)
@@ -24,7 +24,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trymelow/.github/main/assets/site-ru.webp" width="880" alt="melow.fun: сайт Melow с приложением">
+  <img src="https://raw.githubusercontent.com/trymelow/.github/main/assets/app-ru.webp" width="880" alt="Приложение Melow: текст загорается по словам">
 </p>
 
 <br/>

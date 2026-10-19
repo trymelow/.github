@@ -9,7 +9,7 @@
 
 All the music in the world, with no commercial breaks.
 
-[Website](https://melow.fun) · [Download](https://github.com/trymelow/releases/releases/latest) · [Status](https://status.melow.fun) · [Telegram](https://t.me/trymelon)
+[Website](https://melow.fun) · [Download](https://github.com/trymelow/releases/releases/latest) · [Status](https://status.melow.fun) · [Telegram](https://t.me/melow_app)
 
 ![Windows](https://img.shields.io/badge/Windows-0a0a0a?style=flat-square)
 ![macOS](https://img.shields.io/badge/macOS-0a0a0a?style=flat-square)
@@ -24,7 +24,7 @@ All the music in the world, with no commercial breaks.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trymelow/.github/main/assets/site-en.webp" width="880" alt="melow.fun: the Melow website with the app">
+  <img src="https://raw.githubusercontent.com/trymelow/.github/main/assets/app-en.webp" width="880" alt="The Melow app: lyrics lighting up word by word">
 </p>
 
 <br/>
